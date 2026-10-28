@@ -69,14 +69,14 @@ author_profile: true
 - IEEE Transactions on Wireless Communications（TWC）
 - IEEE Transactions on Communications（TCOMM）
 
-## Students & Admissions · 学生与招生
+<!-- ## Students & Admissions · 学生与招生
 
-<!-- 招收网络空间安全（083900）学术型硕士及计算机技术（085404）专业型硕士，研究方向包括6G网络安全、身份认证和人工智能安全等。欢迎具备编程基础、对科研有兴趣的同学联系。-->
+招收网络空间安全（083900）学术型硕士及计算机技术（085404）专业型硕士，研究方向包括6G网络安全、身份认证和人工智能安全等。欢迎具备编程基础、对科研有兴趣的同学联系。
 
-[招生说明]({{ "/admissions/" | relative_url }}) · [学生培养]({{ "/students/" | relative_url }})
+[招生说明]({{ "/admissions/" | relative_url }}) · [学生培养]({{ "/students/" | relative_url }})-->
 
 ## Contact · 联系方式
 
 - **单位**：塔里木大学网络安全学院
 - **邮箱**：[zpcap0505238@163.com](mailto:zpcap0505238@163.com)
-<!-- - **学校导师介绍**：[查看官方资料](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=5f7c36e3d66343f289fad11fa9798226) -->
+#- **学校导师介绍**：[查看官方资料](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=5f7c36e3d66343f289fad11fa9798226)
