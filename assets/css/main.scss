@@ -36,3 +36,12 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* 页脚随页面滚动，取消底部固定 */
+.page__footer {
+  display: none;
+}
+
+/* 去掉原先为固定页脚预留的空白 */
+body {
+  padding-bottom: 0;
+}
