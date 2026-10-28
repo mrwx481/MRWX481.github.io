@@ -7,5 +7,5 @@ main:
     url: /projects/
   - title: "学生培养"
     url: /students/
-  - title: "招生信息"
-    url: /admissions/
+  #- title: "招生信息"
+  #  url: /admissions/
