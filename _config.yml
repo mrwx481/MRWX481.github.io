@@ -6,31 +6,23 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://MRWX481.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://MRWX481.github.io"
+locale: "zh-CN"
+title: "张三的个人主页"
+name: "张三"
+description: "研究方向、学术成果与个人经历"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+url: "https://MRWX481.github.io"
+baseurl: ""
+repository: "zhangsan/MRWX481.github.io"
+
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar: "profile.jpg"
+  name: "张三 Zhang San"
+  bio: "人工智能 · 计算机视觉"
+  location: "中国"
+  employer: "某某大学"
+  email: "yourname@example.com"
+  github: "zhangsan"
 
   # Academic websites
   academia         : # URL
