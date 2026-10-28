@@ -1,56 +1,60 @@
 ---
+layout: single
+title: "张品昌 Pinchang Zhang"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+**南京邮电大学 · 副教授 · 兼职硕士生导师**
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+张品昌，南京邮电大学计软网安学院副教授、兼职硕士生导师。在日本公立函馆未来大学与西安电子科技大学联合培养下获得网络安全专业博士学位，主要从事无线网络安全、物理层身份认证、无人机通信安全、攻击检测与人工智能安全研究。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+研究工作结合深度学习与统计信号分析，从无线信号的幅度、相位、时延、频率等物理特性中提取射频与设备指纹，实现设备识别、身份认证和异常设备检测，面向6G网络、物联网及工业无线网络探索安全通信方法。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Research Interests · 研究方向
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- **射频指纹与物理层身份认证**：提取无线信道与硬件特征，研究设备识别及身份认证方法。
+- **6G与工业无线网络安全**：研究面向6G网络和工业无线互联场景的安全关键技术。
+- **无人机通信安全与攻击检测**：研究无人机辅助通信系统的设备认证、干扰攻击检测等问题。
+- **人工智能安全**：开展人工智能安全相关研究，并结合深度学习方法分析无线信号特征。
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Education · 教育背景
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **博士，网络安全专业**：日本公立函馆未来大学与西安电子科技大学联合培养。
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Selected Publications · 代表论文
 
-**Markdown generator**
+{% include profile-publications.html selected=true %}
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+[查看导师介绍列示的全部代表性论文]({{ "/publications/" | relative_url }})
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Research Projects · 科研项目
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+- 国家重点研发计划项目子课题：高可靠实时互联的工业无线网络安全关键技术，主持。
+- 国家自然科学基金面上项目：面向6G网络的物理层设备身份认证方法研究，主持。
+- 全国重点实验室开放课题：面向异构融合6G物联网的设备身份物理层认证方法研究，主持。
+- 安徽省自然科学基金青年项目：面向物联网的物理层安全认证机制及其性能研究，主持。
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[查看科研项目]({{ "/projects/" | relative_url }}) · [查看发明专利]({{ "/patents/" | relative_url }})
+
+## Academic Services · 学术服务
+
+担任以下国际期刊的同行评议专家：
+
+- IEEE Transactions on Information Forensics and Security（TIFS）
+- IEEE Transactions on Dependable and Secure Computing（TDSC）
+- IEEE Transactions on Mobile Computing（TMC）
+- IEEE Transactions on Wireless Communications（TWC）
+- IEEE Transactions on Communications（TCOMM）
+
+## Students & Admissions · 学生与招生
+
+招收网络空间安全（083900）学术型硕士及计算机技术（085404）专业型硕士，研究方向包括6G网络安全、身份认证和人工智能安全等。欢迎具备编程基础、对科研有兴趣的同学联系。
+
+[招生说明]({{ "/admissions/" | relative_url }}) · [学生培养]({{ "/students/" | relative_url }})
+
+## Contact · 联系方式
+
+- **单位**：南京邮电大学计软网安学院
+- **邮箱**：[zpc@njupt.edu.cn](mailto:zpc@njupt.edu.cn)
+- **学校导师介绍**：[查看官方资料](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=5f7c36e3d66343f289fad11fa9798226)

@@ -1,0 +1,13 @@
+{% assign profile_papers = site.data.profile_publications %}
+{% if include.selected %}
+  {% assign profile_papers = profile_papers | where: "selected", true %}
+{% endif %}
+<ol class="profile-publications">
+{% for paper in profile_papers %}
+  <li>
+    <p>{% for person in paper.authors %}{% if person == "Pinchang Zhang" %}<strong>{{ person | escape }}</strong>{% else %}{{ person | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.<br>
+    <strong>{% if paper.url %}<a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</strong>.<br>
+    <em>{{ paper.venue | escape }}</em>{% if paper.volume != empty and paper.volume %}, {{ paper.volume | escape }}{% if paper.issue != empty and paper.issue %}({{ paper.issue | escape }}){% endif %}{% endif %}{% if paper.pages != empty and paper.pages %}: {{ paper.pages | escape }}{% endif %}, {{ paper.year }}.</p>
+  </li>
+{% endfor %}
+</ol>
