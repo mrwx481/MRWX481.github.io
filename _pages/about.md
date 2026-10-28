@@ -24,9 +24,11 @@ author_profile: true
 
 ## Selected Publications · 代表论文
 
+以下重点展示发表于 CCF A 类期刊与会议的代表性成果，按正式发表年份倒序排列。
+
 {% include profile-publications.html selected=true %}
 
-[查看导师介绍列示的全部代表性论文]({{ "/publications/" | relative_url }})
+[查看其他代表论文与完整书目信息]({{ "/publications/" | relative_url }})
 
 ## Research Projects · 科研项目
 
