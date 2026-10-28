@@ -7,22 +7,22 @@
 # server process.
 
 locale: "zh-CN"
-title: "张三的个人主页"
-name: "张三"
-description: "研究方向、学术成果与个人经历"
+title: "张品昌的个人主页"
+name: "张品昌"
+description: "无线网络安全、物理层身份认证、6G与工业无线网络安全、无人机通信安全及人工智能安全"
 
 url: "https://MRWX481.github.io"
 baseurl: ""
 repository: "MRWX481/MRWX481.github.io"
 
 author:
-  avatar: "profile.jpg"
-  name: "张三 Zhang San"
-  bio: "人工智能 · 计算机视觉"
+  avatar: "zhang-pinchang.jpg"
+  name: "张品昌 Pinchang Zhang"
+  bio: "副教授"
   location: "中国"
-  employer: "某某大学"
-  email: "yourname@example.com"
-  github: "zhangsan"
+  employer: "塔里木大学"
+  email: "zpc@njupt.edu.cn"
+  github: ""
 
   # Academic websites
   academia         : # URL
