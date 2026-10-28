@@ -79,4 +79,4 @@ author_profile: true
 
 - **单位**：塔里木大学网络安全学院
 - **邮箱**：[zpcap0505238@163.com](mailto:zpcap0505238@163.com)
-#- **学校导师介绍**：[查看官方资料](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=5f7c36e3d66343f289fad11fa9798226)
+<!-- - **学校导师介绍**：[查看官方资料](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=5f7c36e3d66343f289fad11fa9798226)-->
