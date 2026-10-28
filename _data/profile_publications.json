@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "title": "Distributed Physical Layer Authentication Framework Exploiting Array Pattern Feature for mmWave MIMO Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Keshuang Han",
+      "Yuanyu Zhang",
+      "Yulong Shen",
+      "Fu Xiao",
+      "Xiaohong Jiang"
+    ],
+    "venue": "IEEE Transactions on Mobile Computing",
+    "year": 2025,
+    "volume": "24",
+    "issue": "7",
+    "pages": "6430-6445",
+    "doi": "10.1109/tmc.2025.3541725",
+    "url": "https://doi.org/10.1109/tmc.2025.3541725",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tmc.2025.3541725"
+  },
+  {
+    "id": 2,
+    "title": "Physical Layer Authentication Utilizing Beam Pattern Features in Millimeter-Wave MIMO Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Yulin Teng",
+      "Mu Niu",
+      "Xiaohong Jiang",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "year": 2025,
+    "volume": "22",
+    "issue": "3",
+    "pages": "2563-2578",
+    "doi": "10.1109/tdsc.2024.3521086",
+    "url": "https://doi.org/10.1109/tdsc.2024.3521086",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tdsc.2024.3521086"
+  },
+  {
+    "id": 7,
+    "title": "Secure Device Authentication for MmWave MIMO Systems via Mutual Coupling and Spatial AoA",
+    "authors": [
+      "Yulin Teng",
+      "Pinchang Zhang",
+      "Shuangrui Zhao",
+      "Xiaohong Jiang",
+      "Yulong Shen",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE INFOCOM 2025 - IEEE Conference on Computer Communications",
+    "year": 2025,
+    "volume": "",
+    "issue": "",
+    "pages": "1-10",
+    "doi": "10.1109/infocom55648.2025.11044681",
+    "url": "https://doi.org/10.1109/infocom55648.2025.11044681",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/infocom55648.2025.11044681"
+  },
+  {
+    "id": 9,
+    "title": "PHY-Layer Authentication Exploiting Channel Sparsity in MmWave MIMO UAV-Ground Systems",
+    "authors": [
+      "Yulin Teng",
+      "Pinchang Zhang",
+      "Xiao Chen",
+      "Xiaohong Jiang",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2024,
+    "volume": "19",
+    "issue": "",
+    "pages": "4642-4657",
+    "doi": "10.1109/tifs.2024.3384112",
+    "url": "https://doi.org/10.1109/tifs.2024.3384112",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tifs.2024.3384112"
+  },
+  {
+    "id": 10,
+    "title": "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-Aided Communication Systems",
+    "authors": [
+      "Yulin Teng",
+      "Pinchang Zhang",
+      "Yangyang Liu",
+      "Jiankuo Dong",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Communications",
+    "year": 2024,
+    "volume": "72",
+    "issue": "8",
+    "pages": "4708-4724",
+    "doi": "10.1109/tcomm.2024.3379404",
+    "url": "https://doi.org/10.1109/tcomm.2024.3379404",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tcomm.2024.3379404"
+  },
+  {
+    "id": 12,
+    "title": "Cooperative Jamming-Aided Secure Communication in Wireless Powered Sensor Networks",
+    "authors": [
+      "Linqing Gui",
+      "Weihao Zhou",
+      "Pinchang Zhang",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "year": 2024,
+    "volume": "21",
+    "issue": "2",
+    "pages": "764-774",
+    "doi": "10.1109/tdsc.2023.3262040",
+    "url": "https://doi.org/10.1109/tdsc.2023.3262040",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tdsc.2023.3262040"
+  },
+  {
+    "id": 15,
+    "title": "Exploiting Screen-Touch Trajectory for Passive User Authentication in Industrial Internet of Things Systems",
+    "authors": [
+      "Guozhu Zhao",
+      "Pinchang Zhang",
+      "Yulong Shen",
+      "Limei Peng",
+      "Xiaohong Jiang"
+    ],
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "year": 2024,
+    "volume": "20",
+    "issue": "7",
+    "pages": "9098-9108",
+    "doi": "10.1109/tii.2024.3379643",
+    "url": "https://doi.org/10.1109/tii.2024.3379643",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tii.2024.3379643"
+  },
+  {
+    "id": 3,
+    "title": "Tag-Based PHY-Layer Authentication for RIS-Assisted Communication Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Yulin Teng",
+      "Yulong Shen",
+      "Xiaohong Jiang",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "year": 2023,
+    "volume": "20",
+    "issue": "6",
+    "pages": "4778-4792",
+    "doi": "10.1109/tdsc.2022.3233862",
+    "url": "https://doi.org/10.1109/tdsc.2022.3233862",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tdsc.2022.3233862"
+  },
+  {
+    "id": 8,
+    "title": "Adaptive Jamming Attack Detection Under Noise Uncertainty in mmWave Massive MIMO Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Jiankuo Dong",
+      "Ji He",
+      "Jun Liu",
+      "Fu Xiao"
+    ],
+    "venue": "IEEE Transactions on Vehicular Technology",
+    "year": 2023,
+    "volume": "72",
+    "issue": "7",
+    "pages": "9002-9016",
+    "doi": "10.1109/tvt.2023.3247488",
+    "url": "https://doi.org/10.1109/tvt.2023.3247488",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tvt.2023.3247488"
+  },
+  {
+    "id": 11,
+    "title": "Exploiting Fine-Grained Channel/Hardware Features for PHY-Layer Authentication in MmWave MIMO Systems",
+    "authors": [
+      "Yangyang Liu",
+      "Pinchang Zhang",
+      "Jun Liu",
+      "Yulong Shen",
+      "Xiaohong Jiang"
+    ],
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2023,
+    "volume": "18",
+    "issue": "",
+    "pages": "4059-4074",
+    "doi": "10.1109/tifs.2023.3290750",
+    "url": "https://doi.org/10.1109/tifs.2023.3290750",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tifs.2023.3290750"
+  },
+  {
+    "id": 13,
+    "title": "EG-FourQ: An Embedded GPU-Based Efficient ECC Cryptography Accelerator for Edge Computing",
+    "authors": [
+      "Jiankuo Dong",
+      "Pinchang Zhang",
+      "Kaisheng Sun",
+      "Fu Xiao",
+      "Fangyu Zheng",
+      "Jingqiang Lin"
+    ],
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "year": 2023,
+    "volume": "19",
+    "issue": "6",
+    "pages": "7291-7300",
+    "doi": "10.1109/tii.2022.3205355",
+    "url": "https://doi.org/10.1109/tii.2022.3205355",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tii.2022.3205355"
+  },
+  {
+    "id": 14,
+    "title": "Passive User Authentication Utilizing Two-Dimensional Features for IIoT Systems",
+    "authors": [
+      "Guozhu Zhao",
+      "Pinchang Zhang",
+      "Yulong Shen",
+      "Limei Peng",
+      "Xiaohong Jiang"
+    ],
+    "venue": "IEEE Transactions on Cloud Computing",
+    "year": 2023,
+    "volume": "11",
+    "issue": "3",
+    "pages": "2770-2783",
+    "doi": "10.1109/tcc.2022.3227171",
+    "url": "https://doi.org/10.1109/tcc.2022.3227171",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tcc.2022.3227171"
+  },
+  {
+    "id": 4,
+    "title": "Exploiting Channel Gain and Phase Noise for PHY-Layer Authentication in Massive MIMO Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Jun Liu",
+      "Yulong Shen",
+      "Xiaohong Jiang"
+    ],
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2021,
+    "volume": "16",
+    "issue": "",
+    "pages": "4265-4279",
+    "doi": "10.1109/tifs.2020.3029894",
+    "url": "https://doi.org/10.1109/tifs.2020.3029894",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tifs.2020.3029894"
+  },
+  {
+    "id": 5,
+    "title": "Physical Layer Authentication for Massive MIMO Systems With Hardware Impairments",
+    "authors": [
+      "Pinchang Zhang",
+      "Tarik Taleb",
+      "Xiaohong Jiang",
+      "Bin Wu"
+    ],
+    "venue": "IEEE Transactions on Wireless Communications",
+    "year": 2020,
+    "volume": "19",
+    "issue": "3",
+    "pages": "1563-1576",
+    "doi": "10.1109/twc.2019.2955128",
+    "url": "https://doi.org/10.1109/twc.2019.2955128",
+    "selected": true,
+    "metadata_source": "https://api.crossref.org/works/10.1109/twc.2019.2955128"
+  },
+  {
+    "id": 6,
+    "title": "Physical Layer Authentication Jointly Utilizing Channel and Phase Noise in MIMO Systems",
+    "authors": [
+      "Pinchang Zhang",
+      "Yulong Shen",
+      "Xiaohong Jiang",
+      "Bin Wu"
+    ],
+    "venue": "IEEE Transactions on Communications",
+    "year": 2020,
+    "volume": "68",
+    "issue": "4",
+    "pages": "2446-2458",
+    "doi": "10.1109/tcomm.2020.2967393",
+    "url": "https://doi.org/10.1109/tcomm.2020.2967393",
+    "selected": false,
+    "metadata_source": "https://api.crossref.org/works/10.1109/tcomm.2020.2967393"
+  }
+]
