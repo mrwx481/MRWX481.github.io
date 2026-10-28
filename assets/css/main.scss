@@ -56,7 +56,8 @@ body {
   }
 
   #main::after {
-    display: none;
+    position: static;
+    bottom: auto;
   }
 
   #main > .sidebar {
